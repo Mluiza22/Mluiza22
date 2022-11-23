@@ -1,12 +1,11 @@
 # QUEM SOU...
 
 👋  Olá, sou Maria luiza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+📍 Moro na cidade de Maringá PR.
+- Amo os animais.
+- 
+- 
 
 <!---
-Mluiza22/Mluiza22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou estudante da série 1°Ano do ensino médio, 
+e pretendo cursar a faculdade de engenharia.
